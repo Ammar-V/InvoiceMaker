@@ -1,6 +1,6 @@
 # InvoiceMaker
 
-### This program can be used to create invoices and outputs in a .pdf file. It was specifically created to work in the shipment industry.
+### This program can be used to create invoices in the form of a .pdf file. It was specifically created to work in the shipment industry.
 
 It was coded in Java with the use of the JavaFX 11, itextpdf-5.5.13.2, jackson-annotations-2.12.3, jackson-core-2.12.3, and jackson-databand-2.12.3 libraries.
 
